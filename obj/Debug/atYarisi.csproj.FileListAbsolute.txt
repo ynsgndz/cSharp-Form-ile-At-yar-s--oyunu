@@ -1,0 +1,10 @@
+C:\Users\yns3g\source\repos\atYarisi\bin\Debug\atYarisi.exe.config
+C:\Users\yns3g\source\repos\atYarisi\bin\Debug\atYarisi.exe
+C:\Users\yns3g\source\repos\atYarisi\bin\Debug\atYarisi.pdb
+C:\Users\yns3g\source\repos\atYarisi\obj\Debug\atYarisi.csprojAssemblyReference.cache
+C:\Users\yns3g\source\repos\atYarisi\obj\Debug\atYarisi.Form1.resources
+C:\Users\yns3g\source\repos\atYarisi\obj\Debug\atYarisi.Properties.Resources.resources
+C:\Users\yns3g\source\repos\atYarisi\obj\Debug\atYarisi.csproj.GenerateResource.cache
+C:\Users\yns3g\source\repos\atYarisi\obj\Debug\atYarisi.csproj.CoreCompileInputs.cache
+C:\Users\yns3g\source\repos\atYarisi\obj\Debug\atYarisi.exe
+C:\Users\yns3g\source\repos\atYarisi\obj\Debug\atYarisi.pdb
